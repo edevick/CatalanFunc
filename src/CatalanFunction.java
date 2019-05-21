@@ -1,7 +1,5 @@
 public class CatalanFunction {
-    private int n;
-
-    /* getCatalanNumbers () returns the number of expressions containing n pairs of brackets which are correctly matched
+     /* getCatalanNumbers () returns the number of expressions containing n pairs of brackets which are correctly matched
      Catalan formula is C(n) = (2n)!/(n+1)!*n!*/
 
     public static int getCatalanNumbers(int n) {
